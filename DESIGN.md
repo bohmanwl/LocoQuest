@@ -69,7 +69,7 @@ https://github.com/users/lh1207/projects/1/views/1
 - Scrum Roles, and who will fill those roles
     - Product Owner:
     - Scrum Master:
-    - Development Team: Levi Huff
+    - Development Team: Levi Huff, William Bohman, Derrick Adkins
 
 - Communication tool you will use for your 8:00 Sunday group stand up (Zoom, Teams, etc.)  If you choose a different tool and/or different time, that's fine, just indicate it in the document.
     - We will be using Teams and have decided to be flexible with everyone's time, for example some will meet on Saturday evening, and others are flexible with almost anytime that works for the group since they're all online this semester.
